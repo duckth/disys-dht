@@ -4,7 +4,7 @@
 // - protoc             v3.21.6
 // source: grpc/interface.proto
 
-package disys_dht
+package dht
 
 import (
 	context "context"
